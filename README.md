@@ -1,5 +1,5 @@
 # References
-- <b>Russell S., Norvig P.</b>: Artificial Intelligence: A Modern Approach, Third Edition, Prentice Hall, 2010
+- <b>Russell S., Norvig P.</b>: Artificial Intelligence: A Modern Approach, Fourth Edition, Prentice Hall, 2020
 
 - <b>Halpern J.</b>: Actual Causality, MIT Press, 2016
 - <b>Halpern J.</b>: Reasoning about Uncertainty, MIT Press, 2003
@@ -8,9 +8,8 @@
 - <b>Pearl J.</b>: Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inferences, Morgan Kaufmann Publishers, 1988
 - <b>M. Bramer</b>: Logic Programming with Prolog, Second edition, Springer Verlag, 2013
 - <b>Clocksin W.F., Mellish C.S</b>: Programming in Prolog, Fifth Edition, Springer Verlag, 2003
-- <b>Dung P.M.</b>: Collection of Works on Argumentation in Artificial Intelligence Journals
 
-# Resources
+# Answer Set
 
 - <b>Situation calculus, reasoning about actions, events, and time</b>: An implementation of GOLOG by Reiter could be used for reasoning about actions in Situation Calculus
   - http://www.cs.toronto.edu/cogrobo/Systems/golog_swi.pl
