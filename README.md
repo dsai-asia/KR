@@ -9,3 +9,12 @@
 - <b>M. Bramer</b>: Logic Programming with Prolog, Second edition, Springer Verlag, 2013
 - <b>Clocksin W.F., Mellish C.S</b>: Programming in Prolog, Fifth Edition, Springer Verlag, 2003
 - <b>Dung P.M.</b>: Collection of Works on Argumentation in Artificial Intelligence Journals
+
+# Resources
+
+- <b>Situation calculus, reasoning about actions, events, and time</b>: An implementation of GOLOG by Reiter could be used for reasoning about actions in Situation Calculus
+  - http://www.cs.toronto.edu/cogrobo/Systems/golog_swi.pl
+  - See for details on http://www.cs.toronto.edu/cogrobo/main/systems/
+- <b>Cognitive robotics</b>: Competition https://robocup.rwth-aachen.de
+- <b>Semantics web</b>: One project at NMSU: https://github.com/phylotastic
+  - demonstrates how can one use semantics web: https://phylo.cs.nmsu.edu
